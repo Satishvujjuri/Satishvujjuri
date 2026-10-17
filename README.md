@@ -113,7 +113,7 @@ Hi, I'm Satish Vujjuri, a passionate software and web developer. I enjoy buildin
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=38BDF8&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=https://github.com/Satishvujjuri&color=38BDF8&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </div>
 
 <br/>
