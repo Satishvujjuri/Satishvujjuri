@@ -14,9 +14,10 @@
 
 ---
 
-# 🧑🏻‍💻 About Me
+## 🧑🏻‍💻 About Me
 
-Hi, I'm Satish Vujjuri, an aspiring Software Developer passionate about building practical web applications and solving problems through code. I work with Python, Flask, JavaScript, SQL, and C++, and I'm continuously learning new technologies and improving my DSA skills. I'm looking forward to building real-world projects and growing as a Software Developer.
+Hi, I'm Satish Vujjuri, an aspiring Software Developer passionate about building practical web applications and solving problems through code. I work with Python, Flask, JavaScript, SQL, and C++, continuously learning new technologies and sharpening my DSA skills. I look forward to building impactful real-world projects and growing as a Software Developer.
+
 ---
 
 ## 🌐 Connect With Me
