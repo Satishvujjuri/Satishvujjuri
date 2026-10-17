@@ -118,9 +118,6 @@ Hi, I'm Satish Vujjuri, a passionate software and web developer. I enjoy buildin
 
 <br/>
 
-<div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSatishvujjuri&count_bg=%2338BDF8&title_bg=%23181717&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true" alt="Profile Views"/>
-</div>
 
 <br/>
 
@@ -159,10 +156,8 @@ Hi, I'm Satish Vujjuri, a passionate software and web developer. I enjoy buildin
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🗄️ Database & AI
+### 🗄️ Database
 ![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=mysql&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini_API-8E75C2?style=for-the-badge&logo=google&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### 🛠️ Tools
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
