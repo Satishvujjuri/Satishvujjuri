@@ -94,7 +94,5 @@ Hi, I'm Satish Vujjuri, an aspiring Software Developer passionate about building
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satishvujjuri&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" height="150"/>
-  &nbsp;
-  <img src="https://leetcard.jacoblin.cool/satish0509?theme=tokyonight&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satishvujjuri&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" height="150"/
 </div>
